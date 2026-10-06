@@ -20,7 +20,7 @@ Bu dersin amacı; öğrencilere bilgi varlıklarının gizliliğini, bütünlü�
 
 | Hafta | Konu Başlığı | İlgili Materyal / Notlar | Görev / Ödev |
 | :---: | :--- | :--- | :--- |
-| **1** | Temel Güvenlik Kavramları ve Tehdit Manzarası | [Hafta 1 Notları](./Sunum-1.pptx) | - |
+| **1** | Temel Güvenlik Kavramları ve Tehdit Manzarası | [Hafta 1 Notları](./Sunum-1.pdf) | - |
 | **2** | Sınıflar (Classes) ve Nesneler (Objects) | Belirlenmedi | - |
 | **3** | Yapıcı Metotlar (`__init__`) ve Sınıf Nitelikleri | Belirlenmedi | - |
 | **4** | Kapsülleme (Encapsulation) ve Erişim Belirleyiciler | Belirlenmedi | - |
