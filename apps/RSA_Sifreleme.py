@@ -25,7 +25,7 @@ sifrelenmek_istenen_metin = "YILMAZ"
 """
 Sayıya Dönüştürme (Big-Endian): Her bayt 256'nın kuvvetleriyle çarpılarak toplanır
 • (89×256⁵ + 73×256⁴ + 76×256³ + 77×256² + 65×256¹ + 90×256⁰).
-• Ortaya Çıkan Sayısal Mesaj (M): 98.174.160.159.066
+• Ortaya Çıkan Sayısal Mesaj (M): 98171347616090
 # ASCII değerini üç haneye tamamlamak için yapılır.
 """
 
